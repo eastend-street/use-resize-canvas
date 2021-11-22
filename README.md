@@ -1,6 +1,6 @@
 # WIP: use-resize-canvas
 
-> Auto resonsive resize hook for canvas
+> Auto responsive resize hook for canvas
 
 [![NPM](https://img.shields.io/npm/v/use-resize-canvas.svg)](https://www.npmjs.com/package/use-resize-canvas) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
