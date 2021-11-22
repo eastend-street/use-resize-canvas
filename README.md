@@ -1,4 +1,4 @@
-# use-resize-canvas
+# WIP: use-resize-canvas
 
 > Auto resonsive resize hook for canvas
 
